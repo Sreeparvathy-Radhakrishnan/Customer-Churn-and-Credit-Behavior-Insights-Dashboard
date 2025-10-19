@@ -53,7 +53,7 @@ To provide a **comprehensive view** of customer churn behavior and financial act
 The **Customer Churn and Credit Behavior Insights Dashboard** is a single-page Tableau dashboard consisting of:  
 - **5 Interactive Visuals**  
 - **3 Key KPIs**  
-- **5 Filters** for detailed exploration  <br><br
+- **5 Filters** for detailed exploration  <br>
 
 ![Dashboard Preview](https://github.com/Sreeparvathy-Radhakrishnan/Customer-Churn-and-Credit-Behavior-Insights-Dashboard/blob/main/Dashboard%20Image.png)
 
